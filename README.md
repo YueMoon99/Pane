@@ -8,9 +8,17 @@
 
 macOS 原生双栏文件管理器。设计目标：外观与苹果原生相融，易用性高于访达。
 
-![Pane — macOS 原生双栏文件管理器](IMG.png)
-
 Pane 把访达式侧边栏、两个完全独立的窗格、标签页、四种视图、空格快速查看、压缩包处理和 SMB 服务器访问整合在一个 Swift 6 / SwiftUI + AppKit 应用里，零第三方依赖。
+
+<img width="2360" height="1600" alt="image" src="https://github.com/user-attachments/assets/226c87c7-5c8b-4830-ae20-fb7f3cec5ade" />
+
+## 💬 联系作者<br>
+由 舟午YueMoon 开发。<br>
+如果你有任何建议、遇到了 BUG，或者单纯想催更，欢迎在B站/Youtube相关视频的评论区告诉我！<br>
+博客：http://yuemoon.vip/<br>
+GitHub：@YueMoon99<br>
+B站：UID223633562<br>
+YouTube：@YueMoon99<br>
 
 ### 主要功能
 
@@ -113,6 +121,14 @@ Pane/
 A native dual-pane file manager for macOS, built to feel at home next to Finder while getting out of your way faster.
 
 Pane combines a Finder-like sidebar, two fully independent panes, tabs, four view modes, Quick Look preview, archive handling and SMB server access in one Swift 6 / SwiftUI + AppKit app — with no third-party dependencies.
+
+<img width="2360" height="1600" alt="image" src="https://github.com/user-attachments/assets/559f5244-e58f-4576-9911-ef426a54352d" />
+
+## 💬 Contact<br>
+Blog：http://yuemoon.vip/<br>
+GitHub：@YueMoon99<br>
+Blibili：UID223633562<br>
+YouTube：@YueMoon99<br>
 
 ### Highlights
 
